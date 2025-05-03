@@ -21,8 +21,9 @@
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,styledcomponents,react,redux,nextjs" />
-  <img src="https://img.shields.io/badge/Regex-Useful%20Skill-blueviolet?style=for-the-badge" alt="Regex Badge"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,bootstrap,styledcomponents,react,redux,nextjs" />
+  <img src="https://img.shields.io/badge/Regex-Pattern%20Matching-blueviolet?style=for-the-badge" alt="Regex Badge"/>
+  <img src="https://img.shields.io/badge/RWD-Responsive%20Design-brightgreen?style=for-the-badge" alt="RWD Badge"/>
 </p>
 
 
