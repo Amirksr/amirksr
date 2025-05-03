@@ -28,12 +28,12 @@
 ### ⚡ Tech Stack (Animated GIFs)
 
 <p align="left">
-  <img src="https://media.giphy.com/media/7liR6eH1QngnQ49S34/giphy.gif" width="48px" />
-  <img src="https://media.giphy.com/media/MXTCMne9pxWqf5tjrJ/giphy.gif" width="48px" />
-  <img src="https://media.giphy.com/media/5qoyPzXwfy94B9cFjX/giphy.gif" width="48px" />
-  <img src="https://media.giphy.com/media/l0MYQShS4l9hZTbdy/giphy.gif" width="48px" />
-  <img src="https://media.giphy.com/media/ctA7deMNTvvXqXtfqM/giphy.gif" width="48px" />
-  <img src="https://media.giphy.com/media/RV9m6zLhvHqmfZyEvA/giphy.gif" width="48px" />
+  <img src="https://media.giphy.com/media/kvUUt0duz5l2k7kcqG/giphy.gif" width="48px" />
+  <img src="https://media.giphy.com/media/7ZSJdizkwkJb2YcSZf/giphy.gif" width="48px" />
+  <img src="https://media.giphy.com/media/xT5LMB5gNJx1jRpavS/giphy.gif" width="48px" />
+  <img src="https://media.giphy.com/media/1XO6K21U5gjJha3wt2/giphy.gif" width="48px" />
+  <img src="https://media.giphy.com/media/3Gqmb7VX5lwiH1FTtm/giphy.gif" width="48px" />
+  <img src="https://media.giphy.com/media/fX3boTA2HGUVkXyYHr/giphy.gif" width="48px" />
 </p>
 
 
