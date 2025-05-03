@@ -29,11 +29,14 @@
 
 ## 📫 Contact Me
 
-Feel free to reach out to me via email or connect on LinkedIn:
-
-- **Email:** [Amirkasraeian611@gmail.com](mailto:Amirkasraeian611@gmail.com)
-- **LinkedIn:** [linkedin.com/in/amir-kasraeian](https://www.linkedin.com/in/amir-kasraeian?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
+<p align="left">
+  <a href="mailto:Amirkasraeian611@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/amir-kasraeian?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 ---
 
 ### 🧩 Featured Projects
