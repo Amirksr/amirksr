@@ -30,8 +30,8 @@
 ### 📫 Contact Me
 
 <p>
-  <a href="mailto:amir.example@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:amirkasraeian611@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/amir-kasraeian?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"></a>
 </p>
 
 ---
