@@ -9,11 +9,12 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **React-based side projects**
-- 🌱 I’m learning **Next.js** and diving into **DevOps basics**
-- 🧠 I love building UIs that are fast, responsive, and beautiful
-- 💬 Ask me about **React, CSS, or building clean UI components**
-- ⚡ Fun fact: I started with no state managers to understand `lifting state up` deeply
+- 🔭 I’m currently working on **React-based side projects**  
+- 🌱 I’m learning **Next.js** to deepen my front-end skills  
+- 🧠 I enjoy building UIs that are fast, responsive, and user-friendly  
+- 💬 Ask me about **React, CSS, or crafting clean UI components**  
+- ⚡ Fun fact: In one of my recent projects, I intentionally avoided state managers to better understand the concept of `lifting state up`  
+
 
 ---
 
@@ -21,19 +22,6 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nextjs,vite" />
-</p>
-
----
-
-### ⚡ Tech Stack (Animated GIFs)
-
-<p align="left">
-  <img src="https://media.giphy.com/media/kvUUt0duz5l2k7kcqG/giphy.gif" width="48px" />
-  <img src="https://media.giphy.com/media/7ZSJdizkwkJb2YcSZf/giphy.gif" width="48px" />
-  <img src="https://media.giphy.com/media/xT5LMB5gNJx1jRpavS/giphy.gif" width="48px" />
-  <img src="https://media.giphy.com/media/1XO6K21U5gjJha3wt2/giphy.gif" width="48px" />
-  <img src="https://media.giphy.com/media/3Gqmb7VX5lwiH1FTtm/giphy.gif" width="48px" />
-  <img src="https://media.giphy.com/media/fX3boTA2HGUVkXyYHr/giphy.gif" width="48px" />
 </p>
 
 
