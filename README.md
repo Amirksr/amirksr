@@ -25,15 +25,15 @@
 
 ---
 
-### ⚡ Tech Stack (Animated)
+### ⚡ Tech Stack (Animated GIFs)
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="48px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="48px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="48px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="48px" />
+  <img src="https://media.giphy.com/media/7liR6eH1QngnQ49S34/giphy.gif" width="48px" />
+  <img src="https://media.giphy.com/media/MXTCMne9pxWqf5tjrJ/giphy.gif" width="48px" />
+  <img src="https://media.giphy.com/media/5qoyPzXwfy94B9cFjX/giphy.gif" width="48px" />
+  <img src="https://media.giphy.com/media/l0MYQShS4l9hZTbdy/giphy.gif" width="48px" />
+  <img src="https://media.giphy.com/media/ctA7deMNTvvXqXtfqM/giphy.gif" width="48px" />
+  <img src="https://media.giphy.com/media/RV9m6zLhvHqmfZyEvA/giphy.gif" width="48px" />
 </p>
 
 
