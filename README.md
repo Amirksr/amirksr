@@ -22,6 +22,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,styledcomponents,react,redux,nextjs" />
+  <img src="https://img.shields.io/badge/Regex-Useful%20Skill-blueviolet?style=for-the-badge" alt="Regex Badge"/>
 </p>
 
 
