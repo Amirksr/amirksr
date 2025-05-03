@@ -18,10 +18,10 @@
 
 ---
 
-### ⚡ Tech Stack
+## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nextjs,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,styledcomponents,react,redux,nextjs" />
 </p>
 
 
