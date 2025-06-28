@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Amir</h1>
-<h3 align="center">Front-End Developer | React Enthusiast | UI-Centric Coder</h3>
+<h3 align="center">Front-End Developer | React Enthusiast | UI-Centric Coder | next js developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&width=435&lines=Front-End+Developer;React+Fanatic;Pixel-Perfect+UI+Lover" />
