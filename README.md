@@ -42,10 +42,4 @@
 
 ---
 
-### 🧩 Featured Projects
-
-- 🔹 [Vanilla Cart](https://vanilla-cart-one.vercel.app/) – React Shopping Cart without State Manager
-
----
-
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
